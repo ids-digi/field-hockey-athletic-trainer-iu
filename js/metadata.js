@@ -1,34 +1,22 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "url": "field-hockey-athletic-trainer-iu",
+    "slug": "Field hockey trainer",
+    "headline": "How an IU athletic trainer tapes a team together",
+    "title": "Field hockey",
+    "pub_date": "March 25, 2026",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
+            "name": "Jack Davis",
+            "email": "jjd5@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/4f47a255-c461-4410-af27-c300fd2a2f37.original.jpg",
             "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
         },
-        "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
-        },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Matei Cloteaux",
+            "email": "mcloteau@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/582468e2-d203-46f6-bbf2-3a83a4f981ec.original.jpg",
+            "bio": "Matei has worked at the IDS since 2023 for the digital desk."
         },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
-        }
     }
 }
 

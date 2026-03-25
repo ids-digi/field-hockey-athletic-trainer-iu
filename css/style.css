@@ -16,11 +16,11 @@
 header {
   /* add header image below */
   /* can use a file path before the photo is uploaded to ceo */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/2117955e-1b4c-4014-8535-e35429063a48.sized-1000x1000.JPG');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/db9631bd-8fe7-40d1-b454-ec6eeeb39aa0.original.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* adjusts image placement, can also be set as percentages (ex. 50% 50%) */
-  background-position: center center;
+  background-position: center 0%;
 }
 
 /* 
@@ -32,8 +32,9 @@ header {
 TYPOGRAPHY
 */
 h1 {
-  /* top headline */
-
+	/* top headline */
+	font-size: 48px;
+	font-family: 'Inter', sans-serif;
 }
 
 h2 {
