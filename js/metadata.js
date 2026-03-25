@@ -3,13 +3,13 @@ const data = {
     "slug": "Field hockey trainer",
     "headline": "How an IU athletic trainer tapes a team together",
     "title": "Field hockey",
-    "pub_date": "March 25, 2026",
+    "pub_date": "March 26, 2026",
     "bylines": {
         "By": {
             "name": "Jack Davis",
             "email": "jjd5@iu.edu",
             "pfp": "https://s3.amazonaws.com/snwceomedia/ids/4f47a255-c461-4410-af27-c300fd2a2f37.original.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "bio": "Jack has worked at the IDS since 2023 for the opinion and sports desk."
         },
         "Design and development by": {
             "name": "Matei Cloteaux",
